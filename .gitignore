@@ -1,5 +1,9 @@
-.env
 labenv/
 __pycache__/
 *.pyc
-logs/*.jsonl
+.env
+.env.*
+chroma*/
+*.sqlite3
+.vscode/
+.idea/
